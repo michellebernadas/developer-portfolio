@@ -1,0 +1,76 @@
+body{
+	background-image: url(../images/bg.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-attachment: fixed;
+}
+
+
+ h1{
+	color: white;
+	font-size: 45px;
+	font-weight: normal;
+	margin-bottom: 0;
+	font-family: 'Galada', cursive;
+}
+h2 {
+    color: white;
+    margin-top: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+}
+.bio{
+	color: white;
+    font-size: 19px;
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+}
+.me {
+    height:180px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 180px;
+}
+.about{
+	width:500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.fb{
+	height: 50px;
+	width: 50px;
+	opacity: 0.7;
+}
+
+.in{
+	height: 50px;
+	width: 50px;
+	opacity: 0.7;
+}
+
+.ins{
+	height: 50px;
+	width: 50px;
+	opacity: 0.7;
+}
+.tw{
+	height: 50px;
+	width: 50px;
+	opacity: 0.7;
+}
+.footer{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    word-spacing: 15px;
+}
